@@ -1,6 +1,6 @@
 # usdt-whale-notifications
 
-Displays USDT notifications of transfers more than 50,000 USDT on Ethereum Mainnet.
+Displays USDT notifications of transfers more than 50,000 USDT.
 
 Built using nodejs,express,ngrok and moralis streams.
 
